@@ -18,4 +18,4 @@ This is a tool for passive reconnaissance to gather information about a domain u
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/passive-recon-tool.git
+   git clone https://github.com/cybercom0101/passive-recon-tool.git
